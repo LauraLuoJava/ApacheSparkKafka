@@ -12,6 +12,7 @@
         <module name="project3" />
         <module name="project6" />
         <module name="project5" />
+        <module name="project8" />
         <module name="project7" />
       </profile>
     </annotationProcessing>
