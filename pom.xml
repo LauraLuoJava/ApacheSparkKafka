@@ -17,6 +17,7 @@
         <module>project6</module>
         <module>project7</module>
         <module>project8</module>
+        <module>project9</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

@@ -14,6 +14,7 @@
         <module name="project5" />
         <module name="project8" />
         <module name="project7" />
+        <module name="project9" />
       </profile>
     </annotationProcessing>
   </component>
