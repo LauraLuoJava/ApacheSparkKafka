@@ -13,6 +13,7 @@
         <module>project2</module>
         <module>project3</module>
         <module>project4</module>
+        <module>project5</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
