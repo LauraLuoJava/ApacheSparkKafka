@@ -4,4 +4,4 @@ machine learning alogrithm
 2.Logistic Regression
 3.K-Means Clustering
 designed by online course:
-https://www.jobreadyprogrammer.com/courses/ultimate-apache-spark-with-java-course/lectures/6531483
+https://www.jobreadyprogrammer.com/courses/ultimate-apache-spark-with-java-course
